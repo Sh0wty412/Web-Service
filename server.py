@@ -166,7 +166,7 @@ def home():
 
             <img
                 class="profile"
-                src="https://i.imgur.com/8Km9tLL.png"
+                src="https://cdn.discordapp.com/avatars/1321432073336258621/1f6980742de5ed1798fbc6f69e46ba3f.webp?size=80"
             >
 
             <h1>Shorty</h1>
