@@ -178,7 +178,7 @@ def home():
                 🎮 Discord
 
                 <div class="hidden" id="discordBox">
-                    Shorty#0000
+                    dev.shorty
                 </div>
 
             </div>
